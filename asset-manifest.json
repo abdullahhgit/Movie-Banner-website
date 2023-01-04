@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Movie-Banner-website/static/css/main.334bdeb1.css",
+    "main.js": "/Movie-Banner-website/static/js/main.3baef788.js",
+    "index.html": "/Movie-Banner-website/index.html",
+    "static/media/search.svg": "/Movie-Banner-website/static/media/search.7753a662f2671ad786fa71f145e5a3b2.svg",
+    "main.334bdeb1.css.map": "/Movie-Banner-website/static/css/main.334bdeb1.css.map",
+    "main.3baef788.js.map": "/Movie-Banner-website/static/js/main.3baef788.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.3baef788.js"
+  ]
+}
